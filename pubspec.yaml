@@ -1,7 +1,6 @@
 name: flutter_structure
 description: A Dart package to generate a specific project structure.
 version: 0.0.1
-author: "AhmedFix <ahmedfix33@gmail.com>"
 homepage: "https://github.com/AhmedFix/flutter_structure.git"
 
 environment:
